@@ -1,0 +1,1 @@
+This Qt spinbox widget provides a scientific notation with exponentials with 4 digits
